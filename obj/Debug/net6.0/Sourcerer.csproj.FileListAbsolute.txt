@@ -1,0 +1,15 @@
+C:\Users\0515frma\Desktop\Sourcerer\bin\Debug\net6.0\Sourcerer.exe
+C:\Users\0515frma\Desktop\Sourcerer\bin\Debug\net6.0\Sourcerer.deps.json
+C:\Users\0515frma\Desktop\Sourcerer\bin\Debug\net6.0\Sourcerer.runtimeconfig.json
+C:\Users\0515frma\Desktop\Sourcerer\bin\Debug\net6.0\Sourcerer.dll
+C:\Users\0515frma\Desktop\Sourcerer\bin\Debug\net6.0\Sourcerer.pdb
+C:\Users\0515frma\Desktop\Sourcerer\obj\Debug\net6.0\Sourcerer.csproj.AssemblyReference.cache
+C:\Users\0515frma\Desktop\Sourcerer\obj\Debug\net6.0\Sourcerer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0515frma\Desktop\Sourcerer\obj\Debug\net6.0\Sourcerer.AssemblyInfoInputs.cache
+C:\Users\0515frma\Desktop\Sourcerer\obj\Debug\net6.0\Sourcerer.AssemblyInfo.cs
+C:\Users\0515frma\Desktop\Sourcerer\obj\Debug\net6.0\Sourcerer.csproj.CoreCompileInputs.cache
+C:\Users\0515frma\Desktop\Sourcerer\obj\Debug\net6.0\Sourcerer.dll
+C:\Users\0515frma\Desktop\Sourcerer\obj\Debug\net6.0\refint\Sourcerer.dll
+C:\Users\0515frma\Desktop\Sourcerer\obj\Debug\net6.0\Sourcerer.pdb
+C:\Users\0515frma\Desktop\Sourcerer\obj\Debug\net6.0\Sourcerer.genruntimeconfig.cache
+C:\Users\0515frma\Desktop\Sourcerer\obj\Debug\net6.0\ref\Sourcerer.dll
