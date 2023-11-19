@@ -2,7 +2,11 @@
 
 # Sourcerer
 
-Program for creating references for sources -- right now only support for win64 and only for the oxford system, in swedish.
+Program for creating references for sources -- right now only support for win64 and only for the oxford system, in Swedish.
+
+## How to use:
+
+Navigate with arrow Up/Down or W/S keys to your source type, choose source type with enter or spacebar, enter all the necessary information by navigating and choosing (required fields displayed in red until filled, non-necessary fields with green), and click "DONE". Escape key can be used to go back. Information that should be talic is marked with k<info>k.
 
 ## Use prebuilt:
 
